@@ -4,6 +4,7 @@
 
 ### [Dataset we created and used for training](https://universe.roboflow.com/teamproject-3f4si/robotic-arm-akk9a)
 
+### [Trained Model](https://www.mediafire.com/file/hkx13g12va5kshb/best_o2.pt/file)
 
 ![preview](preview.gif)
 
