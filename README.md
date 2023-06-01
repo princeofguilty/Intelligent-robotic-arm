@@ -1,4 +1,4 @@
-### A very intelligent robotic, detects robotic arm and target object then does inverse kinamatics calculations to accuratly pick up target object 
+### A very intelligent robotic arm, Object detection model detects robotic arm and target object then does inverse kinamatics calculations to accuratly pick up target object 
 
 ### we are not the creators of yolov7, its a clone from [YOLOV7](https://github.com/WongKinYiu/yolov7) with some modifications and a bug fix from at the time we cloned yolov7
 
